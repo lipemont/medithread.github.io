@@ -33,7 +33,7 @@ h1{
 
 .header .logo {
     display: flex;
-    width: 15vw;
+    width: 70px;
     height: auto;
 }
 
@@ -69,6 +69,7 @@ h1{
     width: 12vw;
     height: 6vh;
     padding: 1vh 1vw;
+    margin-right: 10px;
     font-size: 2vh;
     border: none;
     border-radius: 15px;
